@@ -1,0 +1,16 @@
+{
+  "name": "login-button-visibility-check",
+  "version": "1.0.0",
+  "description": "A simple cypress based script that automates the process of opening a login page to verify that login button is visible and enabled",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "test:open": "npx cyppress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}
